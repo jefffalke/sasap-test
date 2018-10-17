@@ -9,7 +9,7 @@ easier.
 # stephen line 9 change...dual edit
 - Add files to version control
 - Commit changes
-- Push commits to GitHub
+- Push commits to GitHub..here we are, very conflicted
 
 #stephen did this
 #this is inbetween S & J additions
