@@ -12,5 +12,5 @@ easier.
 - Push commits to GitHub
 
 #stephen did this
-
+#this is inbetween S & J additions
 #Jeff did this
