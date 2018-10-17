@@ -9,11 +9,7 @@ easier.
 # stephen line 9 change...dual edit
 - Add files to version control
 - Commit changes
-<<<<<<< HEAD
-- Push commits to GitHub..here we are, very conflicted
-=======
 - Push commits to GitHub - I own this line not you!!
->>>>>>> 3a45b8350915167555fa358179f09a218a76adfa
 
 #stephen did this
 #this is inbetween S & J additions
