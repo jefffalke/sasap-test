@@ -10,3 +10,5 @@ easier.
 - Add files to version control
 - Commit changes
 - Push commits to GitHub
+
+#stephen did this
